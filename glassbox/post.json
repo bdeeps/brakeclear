@@ -1,0 +1,126 @@
+{
+  "slug": "brakeclear",
+  "box": 148,
+  "question": "How do brakes work?",
+  "url": "https://glassbox.how/e/brakeclear/",
+  "app": "https://glassbox.how/brakeclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "200 years from a block of wood on a cartwheel to cars that brake by themselves.\n\n1869: Air stops a train\n1902: The disc brake is patented\n1917: Fluid in place of rods\n1953: Disc brakes win Le Mans\n1968: Two circuits, by law\n1978: Electronic ABS goes on sale\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/brakeclear/history (link in bio)\n\nThen play with how it works: glassbox.how/brakeclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #brakes #discbrake #drumbrake #hydraulics #pascalslaw #abs #history",
+      "youtube": {
+        "title": "The history of brakes in 45 seconds #shorts",
+        "description": "200 years from a block of wood on a cartwheel to cars that brake by themselves.\n\n1869 · Air stops a train (George Westinghouse)\n1902 · The disc brake is patented (Frederick W. Lanchester)\n1917 · Fluid in place of rods (Malcolm Loughead (later spelled Lockheed))\n1953 · Disc brakes win Le Mans (Tony Rolt and Duncan Hamilton, Jaguar and Dunlop)\n1968 · Two circuits, by law (U.S. Department of Transportation)\n1978 · Electronic ABS goes on sale (Bosch and Mercedes-Benz)\n\n▶ Full history: https://glassbox.how/e/brakeclear/history/\n▶ Play with it: https://glassbox.how/e/brakeclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How do brakes work?\n\nYour foot pushes with 100 newtons and the pads squeeze with 7,000. Follow the push through a lever, a vacuum servo and Pascal's law, watch a disc soak up the heat of a stop, and see ABS catch a locking wheel on a wet road.\n\n→ A 1,200 kg car at 100 km/h carries 463 kJ. Brakes turn every joule of it into heat.\n→ Two separate circuits, split diagonally: burst one pipe and half the braking is still there.\n→ The pedal is a 4 to 1 lever, and a vacuum servo triples the push again.\n→ Pascal's law: the same pressure on a piston six times bigger gives six times the force.\n→ A floating caliper has one piston, yet squeezes the disc from both sides with equal force.\n\nPlay with it yourself. It's free and open source: glassbox.how/brakeclear (link in bio)\n\nBox No. 148 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #brakes #discbrake #drumbrake #hydraulics #pascalslaw #abs #brakefade #car #threejs",
+    "carousel": "Swipe through: How do brakes work?\n\nYour foot pushes with 100 newtons and the pads squeeze with 7,000. Follow the push through a lever, a vacuum servo and Pascal's law, watch a disc soak up the heat of a stop, and see ABS catch a locking wheel on a wet road.\n\nSave this for later, then play with the interactive version at glassbox.how/brakeclear (link in bio).\n\nBox No. 148 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #brakes #discbrake #drumbrake #hydraulics #pascalslaw #abs",
+    "youtube": {
+      "title": "How do brakes work? #shorts",
+      "description": "Your foot pushes with 100 newtons and the pads squeeze with 7,000. Follow the push through a lever, a vacuum servo and Pascal's law, watch a disc soak up the heat of a stop, and see ABS catch a locking wheel on a wet road.\n\n▶ Play with it: https://glassbox.how/e/brakeclear/\n⌘ Source code (MIT): https://github.com/bdeeps/brakeclear\n\nBox No. 148 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How do brakes work? (interactive explainer)",
+      "description": "Your foot pushes with 100 newtons and the pads squeeze with 7,000. Follow the push through a lever, a vacuum servo and Pascal's law, watch a disc soak up the heat of a stop, and see ABS catch a locking wheel on a wet road.\n\n▶ Play with the interactive version: https://glassbox.how/e/brakeclear/\n⌘ Source code (MIT): https://github.com/bdeeps/brakeclear\n\nIn this video:\n• Brakes turn motion into heat. A 1,200 kg car at 100 km/h carries 463 kJ of kinetic energy.\n• A 100 N push becomes 7 kN. The pedal is a 4 to 1 lever.\n• Discs pinch, drums push out. A floating caliper has one piston but squeezes the disc from both sides, and its square rubber seal pulls the pads clear again.\n• Heat is the limit. One hard stop from 100 km/h warms each 5 kg front rotor by about 65 °C.\n• A tyre grips best while it still turns. Grip peaks at about 10 to 20% slip.\n• Air that fails safe, motors that give back. Trucks and buses brake with compressed air, and a strong spring in each chamber applies the brakes if the air is lost.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How do brakes work?\n\nYour foot pushes with 100 newtons and the pads squeeze with 7,000.\n\nPlay with it: https://glassbox.how/e/brakeclear/",
+    "linkedin": "How do brakes work?\n\nYour foot pushes with 100 newtons and the pads squeeze with 7,000. Follow the push through a lever, a vacuum servo and Pascal's law, watch a disc soak up the heat of a stop, and see ABS catch a locking wheel on a wet road.\n\n1. Brakes turn motion into heat\n2. A 100 N push becomes 7 kN\n3. Discs pinch, drums push out\n4. Heat is the limit\n5. A tyre grips best while it still turns\n6. Air that fails safe, motors that give back\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 148 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/brakeclear/\nCode: https://github.com/bdeeps/brakeclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-05T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-05T09:47:47.487Z"
+}

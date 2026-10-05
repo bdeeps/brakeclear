@@ -1,0 +1,1039 @@
+{
+  "title": "The history of brakes",
+  "tagline": "200 years from a block of wood on a cartwheel to cars that brake by themselves.",
+  "intro": "For most of history, stopping meant rubbing something against a wheel and hoping it held. Railways were first to need better: compressed air let one driver brake a whole train, and a clever valve made the brake fail safe. Cars then borrowed and invented in turn: drums, tough linings, fluid in pipes, discs from aircraft, and at last electronics that stop a wheel from locking. Today brakes can win back energy, and laws in India and around the world make the best ideas standard.",
+  "eras": [
+    {
+      "id": "wood",
+      "name": "Blocks, levers and brakemen",
+      "from": 1800,
+      "to": 1900,
+      "color": "#c49bff",
+      "summary": "Stopping means pushing a block of wood against a wheel. On trains, men run from wagon to wagon turning brake wheels by hand."
+    },
+    {
+      "id": "air",
+      "name": "Railways lead the way",
+      "from": 1869,
+      "to": 1900,
+      "color": "#ffb547",
+      "summary": "Compressed air lets one driver brake a whole train, and a clever valve makes the brake fail safe. Electric motors learn to slow a vehicle by turning into generators."
+    },
+    {
+      "id": "drum",
+      "name": "Drums, linings and fluid",
+      "from": 1897,
+      "to": 1945,
+      "color": "#ff7a59",
+      "summary": "Cars get brakes inside drums, tough friction linings, brakes on all four wheels, and then fluid in pipes in place of rods and cables."
+    },
+    {
+      "id": "disc",
+      "name": "Discs and double circuits",
+      "from": 1945,
+      "to": 1975,
+      "color": "#5ce1a9",
+      "summary": "Disc brakes come from aircraft to racing cars to family cars. The hydraulic system is split in two so that one leak cannot take away all the brakes."
+    },
+    {
+      "id": "chip",
+      "name": "Brakes that think",
+      "from": 1966,
+      "to": 2000,
+      "color": "#7aa2ff",
+      "summary": "Sensors and electronics learn to release a locking wheel many times a second, then to brake single wheels to stop a skid."
+    },
+    {
+      "id": "now",
+      "name": "Laws, motors and cars that brake themselves",
+      "from": 1997,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Hybrid and electric cars win back energy when they slow down. Countries, India among them, make anti-lock brakes and stability control compulsory, and cars begin to brake on their own."
+    }
+  ],
+  "events": [
+    {
+      "year": 1850,
+      "date": "1800s",
+      "era": "wood",
+      "art": "horse",
+      "title": "A block of wood on the wheel",
+      "who": "Cart, coach and early car builders",
+      "where": "Europe and beyond",
+      "country": "Worldwide",
+      "text": "The first brakes on horse-drawn vehicles, and on the earliest cars, were wooden blocks pushed against steel-rimmed wheels by a lever. They worked on iron tyres, but when rubber tyres arrived in the 1890s a block rubbing on the tyre was no longer good enough.",
+      "why": "The idea has never changed: rub something against the wheel and turn motion into heat.",
+      "box": "heat",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1855,
+      "date": "1830s–1880s",
+      "era": "wood",
+      "art": "person",
+      "title": "Brakemen on the trains",
+      "who": "Railway brakemen and guards",
+      "where": "Britain, the United States and other railway countries",
+      "country": "Worldwide",
+      "text": "Early trains had a hand brake on each vehicle. When the driver blew a brake whistle, brakemen had to wind the brakes on, one wagon or carriage at a time. It was slow, and it depended on every man reacting quickly.",
+      "why": "As trains got faster and longer, railways badly needed one brake that the driver could work along the whole train.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1869,
+      "date": "13 April 1869",
+      "era": "air",
+      "art": "compressor",
+      "key": true,
+      "title": "Air stops a train",
+      "who": "George Westinghouse",
+      "where": "Pittsburgh, Pennsylvania, USA",
+      "country": "United States",
+      "text": "Westinghouse, aged 22, patented a brake worked by compressed air. A steam-driven pump on the locomotive filled a pipe running along the train, and the air pushed the brake blocks onto the wheels of every car. This first version is known as the straight air brake.",
+      "why": "For the first time one person could brake a whole train at once.",
+      "box": "others",
+      "sources": [
+        3,
+        2
+      ]
+    },
+    {
+      "year": 1872,
+      "date": "1872–1873",
+      "era": "air",
+      "art": "spring2",
+      "title": "The brake that fails safe",
+      "who": "George Westinghouse",
+      "where": "Pittsburgh, Pennsylvania, USA",
+      "country": "United States",
+      "text": "The first air brake had a flaw: if the pipe broke, the brakes were lost. Westinghouse gave every car its own air tank and a part called the triple valve. Now a drop in pipe pressure put the brakes on, so a burst hose or a train that came apart stopped by itself.",
+      "why": "A system that goes to the safe state when something breaks is called fail-safe, and truck air brakes still follow this rule.",
+      "box": "others",
+      "sources": [
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "year": 1886,
+      "date": "1886",
+      "era": "air",
+      "art": "coil",
+      "title": "A motor that brakes by making electricity",
+      "who": "Frank J. Sprague",
+      "where": "USA",
+      "country": "United States",
+      "text": "By 1886 Sprague's electric motor company had introduced regenerative braking: when the vehicle slows, its motor runs as a generator and sends power back to the supply. In the 1890s Louis Krieger in Paris used the same trick on electric cabs.",
+      "why": "It was the first brake that saved energy, where a friction brake can only turn it into heat.",
+      "box": "others",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1893,
+      "date": "2 March 1893",
+      "era": "air",
+      "art": "scales",
+      "title": "Air brakes become the law",
+      "who": "United States Congress",
+      "where": "Washington, D.C., USA",
+      "country": "United States",
+      "text": "The Railroad Safety Appliance Act required American trains to have air brakes and automatic couplers. It took full effect in 1900, after a seven-year grace period. Britain had ordered continuous automatic brakes on passenger trains in 1889, after a runaway train disaster at Armagh.",
+      "why": "The law is credited with a sharp fall in railway accidents, and it showed that brake safety could be a matter for governments.",
+      "sources": [
+        4,
+        1
+      ]
+    },
+    {
+      "year": 1897,
+      "date": "1897–c. 1908",
+      "era": "drum",
+      "art": "block",
+      "title": "A better thing to rub with",
+      "who": "Herbert Frood",
+      "where": "Combs and Chapel-en-le-Frith, Derbyshire, England",
+      "country": "United Kingdom",
+      "text": "Frood noticed that carters used scraps of oily cotton belting on their brakes. From 1897 he experimented with brake blocks made of treated cotton, and his firm became Ferodo. He later switched to woven asbestos, which stood up to heat far better; sources give dates between 1908 and 1910.",
+      "why": "The friction material is the part of a brake that does the real work, and this was the start of the modern brake lining.",
+      "box": "discdrum",
+      "sources": [
+        7,
+        6,
+        8
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "c. 1899–1902",
+      "era": "drum",
+      "art": "drum",
+      "title": "Brakes move inside a drum",
+      "who": "Wilhelm Maybach, Gottlieb Daimler and Louis Renault",
+      "where": "Germany and France",
+      "country": "France",
+      "text": "Early cars often used a band that tightened around the outside of a drum, where rain and mud got in. Sources credit Daimler and Maybach with drum brakes on cars around 1899–1900. In 1902 Louis Renault patented the layout that lasted: curved shoes that push outwards against the inside of a drum.",
+      "why": "Shoes inside a drum stay cleaner and drier, and drum brakes are still used on rear wheels today.",
+      "box": "discdrum",
+      "sources": [
+        9,
+        0
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1 December 1902",
+      "era": "drum",
+      "art": "oldcar",
+      "key": true,
+      "title": "The disc brake is patented",
+      "who": "Frederick W. Lanchester",
+      "where": "Birmingham, England",
+      "country": "United Kingdom",
+      "text": "Lanchester applied for a British patent on a brake in which a pair of jaws squeezes a metal disc fixed to the wheel hub. He fitted it to his cars. The pads were copper, which was noisy and wore away quickly on the dusty roads of the time.",
+      "why": "The idea was right but the materials were not ready, so the disc brake had to wait fifty years.",
+      "box": "discdrum",
+      "sources": [
+        11,
+        10
+      ]
+    },
+    {
+      "year": 1910,
+      "date": "1909–1911",
+      "era": "drum",
+      "art": "spokes",
+      "title": "Brakes on all four wheels",
+      "who": "Arrol-Johnston, Henri Perrot and John Rubury (Argyll), Isotta Fraschini",
+      "where": "Scotland and Italy",
+      "country": "United Kingdom",
+      "text": "Most early cars braked only the rear wheels. Makers feared that front brakes would upset the steering. Around 1909–1911 the Scottish firms Arrol-Johnston and Argyll, and Isotta Fraschini in Italy, sold cars with brakes on all four wheels. Perrot and Rubury patented the Argyll system on 18 March 1910.",
+      "why": "A braking car leans forward onto its front wheels, so front brakes can do most of the stopping.",
+      "box": "anatomy",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1917,
+      "date": "4 December 1917",
+      "era": "drum",
+      "art": "hydraulic",
+      "key": true,
+      "title": "Fluid in place of rods",
+      "who": "Malcolm Loughead (later spelled Lockheed)",
+      "where": "Santa Barbara, California, USA",
+      "country": "United States",
+      "text": "Loughead was granted US patent 1,249,143 for a car brake worked by fluid under pressure. A plunger at the pedal pushes fluid down pipes to a cylinder at each wheel. His patent says the system is not upset when the wheels move up and down, and that it presses equally on every brake.",
+      "why": "Pressure in a fluid is the same everywhere, so hydraulic brakes share the force evenly without endless adjusting of rods and cables.",
+      "box": "chain",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1919,
+      "date": "1919",
+      "era": "drum",
+      "art": "gearbox",
+      "title": "The car helps you push",
+      "who": "Marc Birkigt, Hispano-Suiza",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "The Hispano-Suiza H6, shown at the 1919 Paris Motor Show, had brakes on all four wheels and a mechanical servo driven from the gearbox. The car's own motion added force to the driver's foot. It is described as the first power-assisted brake on a car, and Rolls-Royce later took a licence.",
+      "why": "Heavy, fast cars needed more braking force than a leg could comfortably give.",
+      "box": "chain",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1921,
+      "date": "1921–1924",
+      "era": "drum",
+      "art": "car",
+      "title": "Hydraulic brakes go on sale",
+      "who": "Fred Duesenberg, then Walter Chrysler's engineers",
+      "where": "Indianapolis and Detroit, USA",
+      "country": "United States",
+      "text": "The Duesenberg Model A, built from 1921, was the first production car with hydraulic brakes on all four wheels. Its fluid was a mix of glycerine and water. In July 1921 a Duesenberg racing car driven by Jimmy Murphy won the French Grand Prix, where its brakes were judged the best. In 1924 the Chrysler Six brought four-wheel hydraulic brakes to a mid-priced car.",
+      "why": "Within about twenty years almost every new car had hydraulic brakes.",
+      "box": "chain",
+      "sources": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "c. 1927",
+      "era": "drum",
+      "art": "piston2",
+      "title": "The vacuum servo",
+      "who": "Albert Dewandre",
+      "where": "Belgium",
+      "country": "Belgium",
+      "text": "The Belgian engineer Albert Dewandre is widely credited with the vacuum servo, usually dated to 1927. It uses the suction in the engine's intake to help push the brakes. A cut-away Dewandre servo entered the Science Museum's collection in London that same year.",
+      "why": "The round booster behind the brake pedal of most petrol cars works on the same idea.",
+      "box": "chain",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "1949–1950",
+      "era": "disc",
+      "art": "car",
+      "title": "Discs try again in America",
+      "who": "Crosley and Chrysler",
+      "where": "USA",
+      "country": "United States",
+      "text": "The little Crosley Hot Shot was sold with disc brakes on all four wheels, a caliper design first made for aircraft. They corroded and stuck on salted winter roads and were soon dropped. Chrysler's big Crown Imperial of 1949 had a different, enclosed kind of disc brake, offered until 1953.",
+      "why": "It showed that a disc brake needs the right materials and protection to survive on real roads.",
+      "box": "discdrum",
+      "sources": [
+        10,
+        23
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "1920s–early 1950s",
+      "era": "disc",
+      "art": "plane",
+      "title": "Aircraft learn not to skid",
+      "who": "Gabriel Voisin, then Dunlop",
+      "where": "France and England",
+      "country": "United Kingdom",
+      "text": "A landing aircraft with locked wheels slides and bursts its tyres. The French pioneer Gabriel Voisin is credited with trying a flywheel and valve system in the 1920s that eased the brakes when a wheel slowed too suddenly. In the early 1950s Dunlop's mechanical Maxaret unit did this on British aircraft, cutting stopping distances by up to 30%.",
+      "why": "This is the idea behind anti-lock brakes: a tyre that keeps rolling grips better than one that slides.",
+      "box": "abs",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "June 1953",
+      "era": "disc",
+      "art": "trophy",
+      "key": true,
+      "title": "Disc brakes win Le Mans",
+      "who": "Tony Rolt and Duncan Hamilton, Jaguar and Dunlop",
+      "where": "Le Mans, France",
+      "country": "France",
+      "text": "Jaguar had worked with Dunlop on disc brakes, which until then had been used on aircraft. In the 1953 Le Mans 24-hour race its C-Types could brake later and harder than their rivals, lap after lap, without fading. Rolt and Hamilton won at an average of 105.85 mph, the first win at over 100 mph, and Jaguars also came second and fourth.",
+      "why": "The win set off a rush to put disc brakes on road cars.",
+      "box": "discdrum",
+      "sources": [
+        25,
+        24,
+        10
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1955",
+      "era": "disc",
+      "art": "car",
+      "title": "Discs for the family car",
+      "who": "Citroën",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "The Citroën DS went on sale with disc brakes on its front wheels, mounted inboard next to the gearbox. About 1.5 million were built over 20 years. In Britain, the Triumph TR3 got front discs in 1956 and Jaguar's road cars followed in 1957.",
+      "why": "It was the first lasting success for disc brakes on a mass-produced car.",
+      "box": "discdrum",
+      "sources": [
+        26,
+        10
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1 January 1968",
+      "era": "disc",
+      "art": "piston",
+      "key": true,
+      "title": "Two circuits, by law",
+      "who": "U.S. Department of Transportation",
+      "where": "Washington, D.C., USA",
+      "country": "United States",
+      "text": "US Federal Motor Vehicle Safety Standard 105 took effect for passenger cars. It set stopping tests and required a split, or dual, braking system, so a leak in one half still leaves the other half working. A few American cars had dual master cylinders from 1962, and all had them by the 1967 model year.",
+      "why": "One burst pipe no longer meant no brakes at all.",
+      "box": "anatomy",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1966–1971",
+      "era": "chip",
+      "art": "computer",
+      "title": "Anti-lock brakes reach the road",
+      "who": "Jensen, Ford, Chrysler and Bendix, Nissan",
+      "where": "England, USA and Japan",
+      "country": "United Kingdom",
+      "text": "The British Jensen FF of 1966 used Dunlop's mechanical Maxaret, and only 320 were made. In 1969 Ford offered Sure-Track on the rear wheels of two luxury models. In 1971 the Chrysler Imperial offered Sure Brake, a computer-controlled system on all four wheels, and Nissan sold Japan's first electronic ABS.",
+      "why": "These systems were rare and costly, but they proved that a car could release a locking wheel faster than any driver.",
+      "box": "abs",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "chip",
+      "art": "flame",
+      "title": "Brakes made of carbon",
+      "who": "Dunlop, Concorde and the Brabham Formula One team",
+      "where": "Britain and France",
+      "country": "United Kingdom",
+      "text": "Concorde was the first airliner with carbon-based brakes, developed by Dunlop. They saved about 540 kg compared with steel. In 1976 the Brabham team, working with Dunlop, raced carbon discs in Formula One. Carbon discs work at temperatures that would ruin cast iron.",
+      "why": "All the energy of motion ends up as heat in the brakes, so a material that stays strong when glowing hot can stop harder for longer.",
+      "box": "heat",
+      "sources": [
+        28,
+        10
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "22–25 August 1978",
+      "era": "chip",
+      "art": "chip",
+      "key": true,
+      "title": "Electronic ABS goes on sale",
+      "who": "Bosch and Mercedes-Benz",
+      "where": "Stuttgart-Untertürkheim, Germany",
+      "country": "Germany",
+      "text": "Mercedes-Benz and Bosch presented a digital anti-lock braking system, the result of work that began in the 1960s. A sensor at each wheel reports its speed, and valves release and re-apply the pressure many times a second. From the end of 1978 it was an option on the Mercedes-Benz S-Class for 2,217.60 Deutschmarks.",
+      "why": "It is the system nearly every new car now has, and it lets a driver steer while braking as hard as possible.",
+      "box": "abs",
+      "sources": [
+        29,
+        21
+      ]
+    },
+    {
+      "year": 1988,
+      "date": "1988",
+      "era": "chip",
+      "art": "motorcycle",
+      "title": "ABS on two wheels",
+      "who": "BMW",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "BMW offered an electronic and hydraulic anti-lock system on its K100 motorcycles, ten years after cars got it. It added 11 kg to the bike. Yamaha and Honda followed in 1991 and 1992.",
+      "why": "A locked front wheel usually means a fall, so anti-lock brakes matter even more on two wheels than on four.",
+      "box": "abs",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "May 1995",
+      "era": "chip",
+      "art": "steering",
+      "key": true,
+      "title": "Braking one wheel to stop a skid",
+      "who": "Bosch and Mercedes-Benz",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "The Mercedes-Benz S 600 Coupé was the first production car with the Electronic Stability Program, ESP. If the car starts to slide, the system brakes single wheels, and can cut engine power, to pull it back into line. In 1997 a new Mercedes A-Class rolled over in a Swedish magazine's swerve test, and Mercedes then fitted ESP to the model.",
+      "why": "Studies cited by US safety agencies suggest stability control prevents about a third of fatal crashes.",
+      "box": "abs",
+      "sources": [
+        31,
+        30
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "December 1997",
+      "era": "now",
+      "art": "battery",
+      "key": true,
+      "title": "Braking that refills the battery",
+      "who": "Toyota",
+      "where": "Toyota City, Japan",
+      "country": "Japan",
+      "text": "The Toyota Prius, the first mass-produced hybrid car, went into production. When the driver slows down, a motor works as a generator and charges the battery. Toyota's engineers had to build a new system to blend this smoothly with the ordinary hydraulic brakes. An American concept car, the AMC Amitron, had shown the idea in 1967.",
+      "why": "Regenerative braking is now on every hybrid and electric car, and their friction brakes do far less work.",
+      "box": "others",
+      "sources": [
+        34,
+        5
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "1980s–2000s",
+      "era": "now",
+      "art": "molecule",
+      "title": "Asbestos leaves the brake",
+      "who": "Health agencies and brake makers",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "Asbestos handled brake heat well, but its dust is deadly. The World Health Organization says all forms of asbestos cause cancer, and it lists brake shoes and pads among the products that expose workers. Makers switched to other fibres, and Australia banned the last permitted kind at the end of 2003. More than 50 countries have banned it; India is reported to have stopped mining it but still allows its import and use.",
+      "why": "Brake dust goes into the air people breathe, so what a brake is made of matters to everyone.",
+      "sources": [
+        35,
+        8,
+        36
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "2008",
+      "era": "now",
+      "art": "speedo",
+      "title": "The car brakes by itself",
+      "who": "Volvo",
+      "where": "Gothenburg, Sweden",
+      "country": "Sweden",
+      "text": "Volvo made City Safety standard on its new XC60. The system watches the vehicle ahead in slow traffic. If the driver does not react, the car brakes on its own. Volvo said three quarters of reported collisions happen at up to 30 km/h.",
+      "why": "Automatic emergency braking takes away the thinking time, which at town speeds is often most of the stopping distance.",
+      "box": "abs",
+      "sources": [
+        37,
+        38
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "2011–2022",
+      "era": "now",
+      "art": "scales",
+      "title": "The law catches up",
+      "who": "United States and European Union",
+      "where": "Washington and Brussels",
+      "country": "Worldwide",
+      "text": "The United States required stability control on every new light vehicle made from 1 September 2011, after a three-year phase-in. The European Union required it on new car types from November 2011 and on all new cars from November 2014. From July 2022 the EU also required automatic emergency braking on new types of car.",
+      "why": "Features that began as costly extras on luxury cars became the minimum for everyone.",
+      "sources": [
+        32,
+        30,
+        38
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "1 April 2019",
+      "era": "now",
+      "art": "road",
+      "key": true,
+      "title": "India makes ABS compulsory",
+      "who": "Ministry of Road Transport and Highways",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "India's rules required anti-lock brakes on all new cars and minibuses, and on new motorcycles and scooters above 125 cc, with new models covered a year earlier, from 1 April 2018. Smaller two-wheelers could use ABS or a combined braking system, which works both brakes from one control. Heavy trucks and buses were reported to need ABS from 2015.",
+      "why": "Motorcycles and scooters are how much of India travels, so brakes that do not lock can save many lives.",
+      "box": "abs",
+      "sources": [
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "23 June 2025",
+      "era": "now",
+      "art": "motorcycle",
+      "title": "ABS for every two-wheeler?",
+      "who": "Ministry of Road Transport and Highways",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "The ministry published a draft rule proposing ABS on every new motorcycle and scooter, whatever its engine size, from 1 January 2026. Makers said this would add thousands of rupees to the cheapest models and asked for more time. In November 2025 news reports said the date was likely to be pushed back while tests were done.",
+      "why": "Most two-wheelers sold in India have small engines, so this one rule would reach the largest group of riders.",
+      "box": "abs",
+      "sources": [
+        42,
+        43
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Air brake for trains",
+      "value": "1869",
+      "who": "George Westinghouse, USA"
+    },
+    {
+      "label": "Patent for a car disc brake",
+      "value": "1902",
+      "who": "Frederick Lanchester, England"
+    },
+    {
+      "label": "Patent for Loughead's hydraulic car brake",
+      "value": "1917",
+      "who": "Malcolm Loughead, USA"
+    },
+    {
+      "label": "Production car with four-wheel hydraulic brakes",
+      "value": "1921",
+      "who": "Duesenberg Model A, USA"
+    },
+    {
+      "label": "Le Mans win on disc brakes",
+      "value": "1953",
+      "who": "Jaguar C-Type with Dunlop discs"
+    },
+    {
+      "label": "Digital four-wheel ABS on a production car",
+      "value": "1978",
+      "who": "Bosch and Mercedes-Benz, Germany"
+    },
+    {
+      "label": "Production car with stability control (ESP)",
+      "value": "1995",
+      "who": "Mercedes-Benz S 600 Coupé, Germany"
+    },
+    {
+      "label": "Mass-produced hybrid with regenerative braking",
+      "value": "1997",
+      "who": "Toyota Prius, Japan"
+    }
+  ],
+  "people": [
+    {
+      "name": "George Westinghouse",
+      "life": "1846 – 1914",
+      "role": "Inventor and industrialist",
+      "from": "USA",
+      "note": "Patented the railway air brake at 22, then made it fail-safe with the triple valve."
+    },
+    {
+      "name": "Bertha Benz",
+      "life": "1849 – 1944",
+      "role": "Motoring pioneer and investor",
+      "from": "Germany",
+      "note": "On her 1888 long-distance drive she is said to have had a cobbler fix leather to the brake blocks, the first brake linings."
+    },
+    {
+      "name": "Frank J. Sprague",
+      "life": "1857 – 1934",
+      "role": "Electrical engineer",
+      "from": "USA",
+      "note": "Built electric motors that could brake a vehicle by feeding power back to the supply."
+    },
+    {
+      "name": "Herbert Frood",
+      "life": "1864 – 1931",
+      "role": "Inventor and founder of Ferodo",
+      "from": "England",
+      "note": "Turned a carter's trick with oily cotton belting into the first purpose-made brake linings."
+    },
+    {
+      "name": "Wilhelm Maybach",
+      "life": "1846 – 1929",
+      "role": "Engine and car designer",
+      "from": "Germany",
+      "note": "Credited, with Gottlieb Daimler, with early drum brakes on cars around 1900."
+    },
+    {
+      "name": "Louis Renault",
+      "life": "1877 – 1944",
+      "role": "Car maker",
+      "from": "France",
+      "note": "Patented the drum brake with shoes that expand inside the drum, in 1902."
+    },
+    {
+      "name": "Frederick W. Lanchester",
+      "life": "1868 – 1946",
+      "role": "Engineer",
+      "from": "England",
+      "note": "Patented a disc brake for cars in 1902, half a century before it caught on."
+    },
+    {
+      "name": "Malcolm Loughead",
+      "life": "1886 – 1958",
+      "role": "Engineer",
+      "from": "USA",
+      "note": "Patented a hydraulic brake for cars; his name was later spelled Lockheed, like the brake company."
+    },
+    {
+      "name": "Fred Duesenberg",
+      "life": "1876 – 1932",
+      "role": "Car and racing engineer",
+      "from": "Germany and USA",
+      "note": "Put four-wheel hydraulic brakes on a production car, the Duesenberg Model A."
+    },
+    {
+      "name": "Marc Birkigt",
+      "life": "1878 – 1953",
+      "role": "Engineer at Hispano-Suiza",
+      "from": "Switzerland",
+      "note": "Designed the gearbox-driven brake servo of the 1919 Hispano-Suiza H6."
+    },
+    {
+      "name": "Hans Scherenberg",
+      "life": "1910 – 2000",
+      "role": "Head of development at Mercedes-Benz",
+      "from": "Germany",
+      "note": "Filed an anti-lock patent in 1953 and showed a first electronic system to the press in 1970."
+    }
+  ],
+  "series": [
+    {
+      "id": "discs",
+      "title": "New American cars with front disc brakes",
+      "unit": "%",
+      "log": false,
+      "after": "disc",
+      "caption": "In twelve model years, front disc brakes went from a rare extra to every new car built in the United States.",
+      "points": [
+        {
+          "year": 1965,
+          "value": 2,
+          "label": "NHTSA report DOT HS-806-359, Table 1-1: 2% of US-built cars"
+        },
+        {
+          "year": 1966,
+          "value": 3,
+          "label": "NHTSA Table 1-1: 3%"
+        },
+        {
+          "year": 1967,
+          "value": 6,
+          "label": "NHTSA Table 1-1: 6%"
+        },
+        {
+          "year": 1968,
+          "value": 13,
+          "label": "NHTSA Table 1-1: 13%"
+        },
+        {
+          "year": 1969,
+          "value": 28,
+          "label": "NHTSA Table 1-1: 28%"
+        },
+        {
+          "year": 1970,
+          "value": 41,
+          "label": "NHTSA Table 1-1: 41%"
+        },
+        {
+          "year": 1971,
+          "value": 63,
+          "label": "NHTSA Table 1-1: 63%"
+        },
+        {
+          "year": 1972,
+          "value": 74,
+          "label": "NHTSA Table 1-1: 74%"
+        },
+        {
+          "year": 1973,
+          "value": 86,
+          "label": "NHTSA Table 1-1: 86%"
+        },
+        {
+          "year": 1974,
+          "value": 84,
+          "label": "NHTSA Table 1-1: 84%"
+        },
+        {
+          "year": 1975,
+          "value": 93,
+          "label": "NHTSA Table 1-1: 93%"
+        },
+        {
+          "year": 1976,
+          "value": 99,
+          "label": "NHTSA Table 1-1: 99%"
+        },
+        {
+          "year": 1977,
+          "value": 100,
+          "label": "NHTSA Table 1-1: 100%"
+        }
+      ]
+    },
+    {
+      "id": "esc",
+      "title": "Stability control required on new US light vehicles",
+      "unit": "%",
+      "log": false,
+      "after": "now",
+      "caption": "The smallest share of each maker's new cars and light trucks that US law required to have electronic stability control, by production year.",
+      "points": [
+        {
+          "year": 2008,
+          "value": 0,
+          "label": "Before 1 September 2008: no requirement"
+        },
+        {
+          "year": 2009,
+          "value": 55,
+          "label": "FMVSS 126: 55% of vehicles made from 1 September 2008"
+        },
+        {
+          "year": 2010,
+          "value": 75,
+          "label": "FMVSS 126: 75% of vehicles made from 1 September 2009"
+        },
+        {
+          "year": 2011,
+          "value": 95,
+          "label": "FMVSS 126: 95% of vehicles made from 1 September 2010"
+        },
+        {
+          "year": 2012,
+          "value": 100,
+          "label": "FMVSS 126: every vehicle made from 1 September 2011"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The UK Highway Code gives a typical stopping distance of 96 metres at 70 mph, about 24 car lengths. Of that, 21 metres pass before the driver's foot even reaches the pedal.",
+    "A train's air brakes are held off by air pressure, not on. If a hose bursts or the train breaks in two, the pressure drops and the brakes come on by themselves.",
+    "Frederick Lanchester's 1902 disc brake had pads made of copper. They were noisy and wore out fast on dusty roads.",
+    "Brake fluid has to pass a boiling test. Under the US standard, fresh DOT 4 fluid must not boil below 230 °C, and after soaking up water it must still reach 155 °C.",
+    "Concorde was the first airliner with carbon brakes. They saved about 540 kg compared with steel ones."
+  ],
+  "sources": [
+    {
+      "title": "Brake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brake"
+    },
+    {
+      "title": "Railway brake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Railway_brake"
+    },
+    {
+      "title": "Railway air brake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Railway_air_brake"
+    },
+    {
+      "title": "Landmark #273: Westinghouse Automatic Air Brake",
+      "publisher": "American Society of Mechanical Engineers",
+      "url": "https://www.asme.org/about-asme/engineering-history/landmarks/273-westinghouse-automatic-air-brake"
+    },
+    {
+      "title": "Railroad Safety Appliance Act",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Railroad_Safety_Appliance_Act"
+    },
+    {
+      "title": "Regenerative braking",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Regenerative_braking"
+    },
+    {
+      "title": "Ferodo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ferodo"
+    },
+    {
+      "title": "The Brakeman: Herbert Frood and Ferodo",
+      "publisher": "Driven to Write",
+      "url": "https://driventowrite.com/2021/05/30/brakeman-ferodo-brakes-history/"
+    },
+    {
+      "title": "Brake lining",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brake_lining"
+    },
+    {
+      "title": "Drum brake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Drum_brake"
+    },
+    {
+      "title": "Disc brake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Disc_brake"
+    },
+    {
+      "title": "GB190226407A: Improvements in the Brake Mechanism of Power-propelled Road Vehicles (F. W. Lanchester)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/GB190226407A/en"
+    },
+    {
+      "title": "Argyll (car)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Argyll_(car)"
+    },
+    {
+      "title": "Isotta Fraschini",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isotta_Fraschini"
+    },
+    {
+      "title": "US Patent 1,249,143: Braking apparatus (Malcolm Loughead)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US1249143A/en"
+    },
+    {
+      "title": "Hispano-Suiza H6",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hispano-Suiza_H6"
+    },
+    {
+      "title": "Duesenberg Model A",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Duesenberg_Model_A"
+    },
+    {
+      "title": "1921 French Grand Prix",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1921_French_Grand_Prix"
+    },
+    {
+      "title": "History of Chrysler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Chrysler"
+    },
+    {
+      "title": "Vacuum servo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vacuum_servo"
+    },
+    {
+      "title": "Working model of a Dewandre vacuum servo for motor car brakes (object 1927-412)",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co24701/motor-car-brake-component"
+    },
+    {
+      "title": "Anti-lock braking system",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anti-lock_braking_system"
+    },
+    {
+      "title": "Dunlop Maxaret",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dunlop_Maxaret"
+    },
+    {
+      "title": "Chrysler Imperial",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chrysler_Imperial"
+    },
+    {
+      "title": "Jaguar C-Type",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jaguar_C-Type"
+    },
+    {
+      "title": "Jaguar: The Beginning, part 3",
+      "publisher": "Jaguar",
+      "url": "https://www.jaguar.com/en-au/jdx/news/2024/may/jaguar-the-beginning/part-3.html"
+    },
+    {
+      "title": "Citroën DS",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_DS"
+    },
+    {
+      "title": "A Preliminary Evaluation of Two Braking Improvements for Passenger Cars: Dual Master Cylinders and Front Disc Brakes (DOT HS-806-359, 1983)",
+      "publisher": "U.S. National Highway Traffic Safety Administration",
+      "url": "https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/806359"
+    },
+    {
+      "title": "Concorde",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Concorde"
+    },
+    {
+      "title": "World premiere in 1978 in the Mercedes-Benz S-Class: anti-lock braking system 40 years old (Mercedes-Benz press text)",
+      "publisher": "Automotive World",
+      "url": "https://www.automotiveworld.com/news/world-premiere-in-1978-in-the-mercedes-benz-s-class-anti-lock-braking-system-40-years-old/"
+    },
+    {
+      "title": "Electronic stability control",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electronic_stability_control"
+    },
+    {
+      "title": "Story of the Electronic Stability Program (ESP), premiered by Mercedes-Benz in 1995",
+      "publisher": "evo India",
+      "url": "https://www.evoindia.com/news/story-of-the-electronic-stability-program-esp-premiered-by-mercedes-benz-in-1995"
+    },
+    {
+      "title": "49 CFR 571.126: Standard No. 126, Electronic stability control systems for light vehicles",
+      "publisher": "Legal Information Institute, Cornell Law School",
+      "url": "https://www.law.cornell.edu/cfr/text/49/571.126"
+    },
+    {
+      "title": "49 CFR 571.116: Standard No. 116, Motor vehicle brake fluids",
+      "publisher": "Legal Information Institute, Cornell Law School",
+      "url": "https://www.law.cornell.edu/cfr/text/49/571.116"
+    },
+    {
+      "title": "Milestones: Toyota Prius, the World's First Mass-Produced Hybrid Vehicle, 1997",
+      "publisher": "Engineering and Technology History Wiki (IEEE)",
+      "url": "https://ethw.org/Milestones:Toyota_Prius,_the_World%27s_First_Mass-Produced_Hybrid_Vehicle,_1997"
+    },
+    {
+      "title": "Asbestos: fact sheet",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/asbestos"
+    },
+    {
+      "title": "Why has India not banned asbestos, a known carcinogen?",
+      "publisher": "The Week",
+      "url": "https://www.theweek.in/theweek/specials/2025/06/14/seventy-two-countries-have-banned-asbestos-a-known-carcinogen-india-is-not-one-of-them.html"
+    },
+    {
+      "title": "City Safety: press release, Volvo XC60",
+      "publisher": "Volvo Cars",
+      "url": "https://www.volvocars.com/intl/media/press-releases/CA61CDB838AA2A2F/"
+    },
+    {
+      "title": "Collision avoidance system",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Collision_avoidance_system"
+    },
+    {
+      "title": "G.S.R. 310(E), 16 March 2016: Central Motor Vehicles (Third Amendment) Rules, 2016 (ABS and CBS on two-wheelers)",
+      "publisher": "Gazette of India, Ministry of Road Transport and Highways",
+      "url": "https://cgtransport.gov.in/GadgetPDF_File/16032016_Notification_No_G_S_R_310_E_dated_16th_March_2016_regarding_ABS_and_CBS_in_two_wheelers_0.pdf"
+    },
+    {
+      "title": "G.S.R. 120(E), 10 February 2017: Central Motor Vehicles (Second Amendment) Rules, 2017 (ABS on M1 and M2 vehicles)",
+      "publisher": "Gazette of India, Ministry of Road Transport and Highways",
+      "url": "https://cgtransport.gov.in/GadgetPDF_File/10022017_Notification_no_G_S_R_120E_dated_10_2_2017_regarding_ABS_for_M1_and_M2_category_of_vehicles_0.pdf"
+    },
+    {
+      "title": "Mandatory ABS for commercial vehicles in India from midnight (31 March 2015)",
+      "publisher": "Autocar Professional",
+      "url": "https://www.autocarpro.in/news-national/mandatory-abs-cvs-india-begins-tomorrow-8084"
+    },
+    {
+      "title": "Government issues notification to mandate ABS, 2 helmets in all 2-wheelers (27 June 2025)",
+      "publisher": "Autocar Professional",
+      "url": "https://www.autocarpro.in/news/government-issues-notification-to-mandate-abs-2-helmets-in-all-2-wheelers-127209"
+    },
+    {
+      "title": "ABS on all two-wheelers in India: government considering delay in enforcement (18 November 2025)",
+      "publisher": "BikeDekho",
+      "url": "https://www.bikedekho.com/news/category-industry-news/abs-on-all-two-wheelers-in-india-government-considering-delay-in-enforcement-18746"
+    },
+    {
+      "title": "The Highway Code, Rule 126: typical stopping distances",
+      "publisher": "GOV.UK, Department for Transport",
+      "url": "https://www.gov.uk/guidance/the-highway-code/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158"
+    }
+  ]
+}
